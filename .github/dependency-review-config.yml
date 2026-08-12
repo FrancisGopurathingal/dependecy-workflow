@@ -1,0 +1,5 @@
+fail-on-severity: moderate
+allow-licenses:
+   - 'GPL-3.0'
+   - 'MIT'
+   - 'BSD-3-Clause'
